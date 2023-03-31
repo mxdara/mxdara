@@ -22,3 +22,13 @@ Here are some ideas to get you started:
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-ahad-6760b3200/)
 - `sameer.ahad@gmail.com`
+
+👨‍🚀 **About me:**
+
+- 🌱 I’m currently learning ML OPS
+- 🔭 I am very interested in Generative adversarial networks
+- :musical_note: :fog:
+- ⚽
+- 📫 How to reach me:
+  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-ahad-6760b3200/)
+  - `sameer.ahad@gmail.com`
