@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 - ⚡ Fun fact: ...
+I am Sameer
 -->
 ### Hi there 👋 
 
-## I am Sameer
+## 私の名前はサミール・アハドです
 
 
 ## - 🔭 I’m currently working on Pokemon Card generator using GAN's
