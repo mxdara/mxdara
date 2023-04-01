@@ -30,8 +30,8 @@ I am Sameer
 
 👨‍🚀 **About me:**
 
-- 🌱 I’m currently learning ML OPS
-- 🔭 I am very interested in Generative adversarial networks
+- 🌱 I’m currently learning ML OPS and stable diffussion
+- 🔭 I am very interested in Generative adversarial networks 
 - :musical_note: :fog:
 - ⚽
 - 📫 How to reach me:
