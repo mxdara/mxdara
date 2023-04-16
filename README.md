@@ -19,6 +19,7 @@ I am Sameer
 
 
 ## - 🔭 I’m currently working on Pokemon Card generator using GAN's
+## - 🛰️ Gemstone Price Prediction deployment on azure cloud services
 
 :mortar_board: **Education:**
 - Bachelors of technology in Electronics and communication engineering , SRM IST
@@ -32,7 +33,6 @@ I am Sameer
 
 - 🌱 I’m currently learning ML OPS and stable diffussion
 - 🔭 I am very interested in Generative adversarial networks 
-- :musical_note: :fog:
 - ⚽
 - 📫 How to reach me:
   - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-ahad-6760b3200/)
