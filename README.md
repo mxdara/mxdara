@@ -20,7 +20,7 @@ I am Sameer
 ## - 🔭 I’m currently working on Pokemon Card generator using GAN's
 
 ## **🪬 PROJECTS**
-- 🛰️ Gemstone Price Prediction deployment on azure cloud services
+- 🛰️ Gemstone Price Prediction deployment on azure cloud services and AWS Elastic Beanstalk
 
 :mortar_board: **Education:**
 - Bachelors of technology in Electronics and communication engineering , SRM IST
