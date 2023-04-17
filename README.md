@@ -34,7 +34,7 @@ I am Sameer
 
 - 🌱 I’m currently learning ML OPS and stable diffussion
 - 🔭 I am very interested in Generative adversarial networks 
-- ⚽
+- ⚽ Real Madrid , **CR7**
 - 📫 How to reach me:
   - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-ahad-6760b3200/)
   - `sameer.ahad@gmail.com`
