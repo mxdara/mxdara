@@ -18,8 +18,8 @@ I am Sameer
 ## 私の名前はサミール・アハドです
 
 ## **🪬 PROJECTS**
-### - 🔭 I’m currently working on Pokemon Card generator using GAN's
-### - 🛰️ Gemstone Price Prediction deployment on azure cloud services
+- 🔭 I’m currently working on Pokemon Card generator using GAN's
+- 🛰️ Gemstone Price Prediction deployment on azure cloud services
 
 :mortar_board: **Education:**
 - Bachelors of technology in Electronics and communication engineering , SRM IST
