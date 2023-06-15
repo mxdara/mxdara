@@ -21,6 +21,8 @@ I am Sameer
 
 ## **🪬 PROJECTS**
 - 🛰️ Gemstone Price Prediction deployment on azure cloud services and AWS Elastic Beanstalk
+- 😷 Face mask detection using neural networks
+- 🌱 Plant leaf Disease Detection system using Machine Learning
 
 :mortar_board: **Education:**
 - Bachelors of technology in Electronics and communication engineering , SRM IST
