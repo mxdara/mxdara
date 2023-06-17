@@ -17,7 +17,6 @@ I am Sameer
 
 ## 私の名前はサミール・アハドです
 ## Je suis sameer
-## yo, i am sameer
 
 ## - 🔭 I’m currently working on Pokemon Card generator using GAN's
 
