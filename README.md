@@ -20,6 +20,12 @@ I am Sameer
 
 ## - 🔭 I’m currently working on Pokemon Card generator using GAN's
 
+## **🎧 DevOps Projects**
+- Deploying Gemstone prediction ML web app on azure using CI/CD pipelines via GitHub actions
+- Creating an AKS Cluster with Terraform Using a Service Principal
+- Building a Data Lake ETF Pipeline: Extracting and Processing Data from S3 Using Spark
+- Efficient Deployment of Machine Learning Pipelines on Kubernetes Engine with Docker
+
 ## **🪬 PROJECTS**
 - 🛰️ Gemstone Price Prediction deployment on azure cloud services and AWS Elastic Beanstalk
 - 😷 Face mask detection using neural networks
