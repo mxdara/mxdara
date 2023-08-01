@@ -15,10 +15,9 @@ I am Sameer
 -->
 ### Hi there 👋 
 
-## 私の名前はサミール・アハドです
 ## Je suis sameer
 
-## - 🔭 I’m currently working on Pokemon Card generator using GAN's
+## - 🔭 Currently building my own SaaS AI platform. 
 
 ## **🎧 DevOps Projects**
 - Deploying Gemstone prediction ML web app on azure using CI/CD pipelines via GitHub actions
@@ -26,8 +25,17 @@ I am Sameer
 - Building a Data Lake ETF Pipeline: Extracting and Processing Data from S3 Using Spark
 - Efficient Deployment of Machine Learning Pipelines on Kubernetes Engine with Docker
 
+
+## **🧑🏾‍💻 FullStack Developments**
+- SaaS AI platform with Next.js, React, Tailwind, Prisma and Stripe
+- Full Stack Chat App with ChatGpt API intgreation using React, Redux Toolkit & Node
+- Web3 blockchain crowdfunding platform using Solidity, Ethereum, Web3.js, React.js, and Metamask integration.
+- Ecommerce Webshop using MERN stack
+- DashboardX: A fully functional full-stack MERN application with complete CRUD functionalities, authentication, pagination, sorting, filtering
+
+
 ## **🪬 PROJECTS**
-- 🛰️ Gemstone Price Prediction deployment on azure cloud services and AWS Elastic Beanstalk
+- 🛰️ A Software-as-a-Service (SaaS) artificial intelligence platform 
 - 😷 Face mask detection using neural networks
 - 🌱 Plant leaf Disease Detection system using Machine Learning
 
