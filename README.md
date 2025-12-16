@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 I am Sameer
 -->
-### Hi there 👋 
+### Bonjour 👋 
 
 ## Je suis sameer
 
